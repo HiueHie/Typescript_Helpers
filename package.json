@@ -1,0 +1,15 @@
+{
+    "name": "Typescript_Helpers",
+    "version": "0.0.1",
+    "description": "Some useful helpers for Typescript",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HiueHie/Typescript_Helpers.git"
+    },
+    "author": "HiueHie aka Darky_Chan",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^11.11.3",
+        "typescript": "^3.3.3333"
+    }
+}
